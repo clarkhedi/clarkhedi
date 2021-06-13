@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&show_icons=true&theme=dracula)
 <a href="https://github.com/clarkhedi/Python-Basic-Introduction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Python-Basic-Introduction&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clarkhedi&repo=Python-Basic-Introduction&theme=dracula" />
 </a>
 <a href="https://github.com/clarkhedi/Python-Basic-Exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Python-Basic-Exercises&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clarkhedi&repo=Python-Basic-Exercises&theme=dracula" />
 </a>
 
 ![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime/?username=clarkhedi&show_icons=true)
