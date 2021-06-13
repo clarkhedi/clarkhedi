@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&show_icons=true&theme=dracula)
+
 <a href="https://github.com/clarkhedi/Python-Basic-Introduction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clarkhedi&repo=Python-Basic-Introduction&theme=dracula" />
 </a>
