@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&show_icons=true&theme=dracula)
-![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime/?username=clarkhedi&show_icons=true)
 -->
 
 <a href="https://github.com/clarkhedi/Python-Basic-Introduction">
@@ -24,6 +23,4 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="wakatime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=clarkhedi&show_icons=true" />
-</a>
+![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime/?username=clarkhedi&show_icons=true)
