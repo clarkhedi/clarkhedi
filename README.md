@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=clarkhedi&repo=Python-Basic-Introduction&theme=dracula)
 ![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=clarkhedi&repo=Python-Basic-Exercises&theme=dracula)
 
-![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clarkhedi&layout=compact)
+![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime/?username=clarkhedi)
