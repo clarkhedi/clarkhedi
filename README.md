@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm clarkhedi 👋
 
 <!--**clarkhedi/clarkhedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&show_icons=true)
+![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&show_icons=true&theme=highcontrast)
+![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&repo=Python-Basic-Exercises)
+![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&repo=Python-Basic-Introduction)
