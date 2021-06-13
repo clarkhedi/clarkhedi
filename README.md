@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&show_icons=true&theme=highcontrast)
-![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&repo=Python-Basic-Exercises)
-![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&repo=Python-Basic-Introduction)
+![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=clarkhedi&repo=Python-Basic-Exercises)
+![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=clarkhedi&repo=Python-Basic-Introduction)
