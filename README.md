@@ -1,4 +1,4 @@
-### Hi I'm clarkhedi 👋
+# Hi I'm clarkhedi 👋
 
 <!--**clarkhedi/clarkhedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
