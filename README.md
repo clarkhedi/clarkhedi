@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime/?username=clarkhedi&show_icons=true)
+![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&show_icons=true&theme=dracula)
 -->
 
 <a href="https://github.com/clarkhedi/Python-Basic-Introduction">
@@ -23,4 +24,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clarkhedi&repo=Python-Basic-Exercises&theme=dracula" />
 </a>
 
-![clarkhedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkhedi&show_icons=true&theme=dracula)
+
