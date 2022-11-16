@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://clarkhedi.github.io/" target="_blank">clarkhedi</a> <img src="https://github.com/clarkhedi/Imgur/blob/main/imgs/Hi.gif" height="32" /></h1>
 
-<!--**clarkhedi/clarkhedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**clarkhedi/clarkhedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi, I'm clarkhedi. 👋 Nice to meet you!
 Here are some ideas to get you started:
 
